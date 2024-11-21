@@ -39,8 +39,8 @@ print(gutenberg.raw('shakespeare-hamlet.txt'))
 ## 🛠️ Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/lalit-jamdagnee/Predict-the-next-word.git
+   cd Predict-the-next-word
    ```
 2. Install dependencies:  
    ```bash
