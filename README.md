@@ -1,6 +1,3 @@
-Here’s a sample `README.md` content for your GitHub repository:
-
----
 
 # LSTM RNN Model for Next-Word Prediction on Shakespeare's *Hamlet*  
 This repository contains a Long Short-Term Memory (LSTM) Recurrent Neural Network (RNN) model trained on Shakespeare's *Hamlet* from the NLTK Gutenberg corpus. The model predicts the next word based on the input sentence and demonstrates how deep learning can generate text inspired by classical literature.
@@ -81,6 +78,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## 📜 License  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
----
-
-Feel free to tweak it to suit your project!
